@@ -1,0 +1,8 @@
+span{
+    color: red;
+    transition: 200;
+}
+span:hover{
+    font-size: 100px;
+    color: teal;
+}
